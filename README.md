@@ -7,6 +7,7 @@ Este é meu primeiro projeto desenvolvido em HTML.
 - Criar uma página HTML
 - Usar a tag `<h1>` para títulos
 - Usar a tag `<p>` para parágrafos
+- Inserir imagens em páginas HTML
 - Organizar arquivos no VS Code
 - Publicar um site no GitHub Pages
 
@@ -19,6 +20,7 @@ Este é meu primeiro projeto desenvolvido em HTML.
 Para visualizar o projeto localmente, abra o arquivo `index.html` em um navegador (Chrome, Edge ou Firefox).
 
 ## Créditos da imagem
-- Foto da banda Slipknot disponível em [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Slipknot).
-- Autor: Fotógrafo colaborador do Wikimedia Commons.
-- Licença: Uso livre com atribuição (Creative Commons).
+- Foto: Slipknot no Roskilde Festival 2013.
+- Autor: Henkka Hyvönen (via Wikimedia Commons).
+- Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slipknot_at_Roskilde_Festival_2013.jpg)
+- Licença: Creative Commons Attribution-Share Alike 3.0 Unported.
