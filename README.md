@@ -20,7 +20,7 @@ Este é meu primeiro projeto desenvolvido em HTML.
 Para visualizar o projeto localmente, abra o arquivo `index.html` em um navegador (Chrome, Edge ou Firefox).
 
 ## Créditos da imagem
-- Foto: Slipknot no Roskilde Festival 2013.
-- Autor: Henkka Hyvönen (via Wikimedia Commons).
-- Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slipknot_at_Roskilde_Festival_2013.jpg)
+- Foto: Slipknot no Download Festival 2009.
+- Autor: HRaspyprince (via Wikimedia Commons).
+- Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slipknot_at_the_Download_Festival_in_2009_.jpg)
 - Licença: Creative Commons Attribution-Share Alike 3.0 Unported.
