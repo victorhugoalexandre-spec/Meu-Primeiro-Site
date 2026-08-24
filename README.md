@@ -21,6 +21,6 @@ Para visualizar o projeto localmente, abra o arquivo `index.html` em um navegado
 
 ## Créditos da imagem
 - Foto: Slipknot no Download Festival 2009.
-- Autor: HRaspyprince (via Wikimedia Commons).
+- Autor: Raspyprince (via Wikimedia Commons).
 - Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slipknot_at_the_Download_Festival_in_2009_.jpg)
 - Licença: Creative Commons Attribution-Share Alike 3.0 Unported.
