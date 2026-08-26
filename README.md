@@ -72,29 +72,25 @@ Para visualizar o projeto localmente, abra o arquivo `index.html` em um navegado
 
 ## Créditos das capas dos álbuns
 
+As capas dos álbuns do Slipknot são protegidas por direitos autorais da Roadrunner Records.  
+O uso neste projeto é apenas para fins educacionais e demonstrativos, sem fins comerciais.
+
 - Slipknot (1999)  
-  Capa oficial do álbum.  
-  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/Slipknot_(album))  
-  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+  Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Slipknot_(album))
 
 - Iowa (2001)  
-  Capa oficial do álbum.  
-  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/Iowa_(album))  
-  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+  Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Iowa_(album))
 
 - Vol. 3: (The Subliminal Verses) (2004)  
-  Capa oficial do álbum.  
-  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/Vol._3:_The_Subliminal_Verses)  
-  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+  Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Vol._3:_The_Subliminal_Verses)
 
 - All Hope Is Gone (2008)  
-  Capa oficial do álbum.  
-  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/All_Hope_Is_Gone)  
-  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+  Fonte: [Wikipedia](https://en.wikipedia.org/wiki/All_Hope_Is_Gone)
+
 
 ## Músicas em destaque
 
-- Slipknot (1999): *Wait and Bleed* — [YouTube](https://www.youtube.com/watch?v=5abamRO41fE)
-- Iowa (2001): *Left Behind* — [YouTube](https://www.youtube.com/watch?v=6fVE8kSM43I)
+- Slipknot (1999): *Wait and Bleed* — [YouTube](https://www.youtube.com/watch?v=IBy7TCSY2wk&list=RDIBy7TCSY2wk&start_radio=1)
+- Iowa (2001): *People = Shit* — [YouTube](https://www.youtube.com/watch?v=qqK1FrO3BdM&list=RDqqK1FrO3BdM&start_radio=1)
 - Vol. 3: (The Subliminal Verses) (2004): *Duality* — [YouTube](https://www.youtube.com/watch?v=6fVE8kSM43I)
 - All Hope Is Gone (2008): *Psychosocial* — [YouTube](https://www.youtube.com/watch?v=5abamRO41fE)
