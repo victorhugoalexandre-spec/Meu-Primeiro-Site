@@ -69,3 +69,32 @@ Para visualizar o projeto localmente, abra o arquivo `index.html` em um navegado
   Autor: Gamerscore Blog (USA)  
   Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sid_Wilson_at_Mayhem-full.jpg)  
   Licença: Creative Commons Attribution-Share Alike 2.0 Generic  
+
+## Créditos das capas dos álbuns
+
+- Slipknot (1999)  
+  Capa oficial do álbum.  
+  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/Slipknot_(album))  
+  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+
+- Iowa (2001)  
+  Capa oficial do álbum.  
+  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/Iowa_(album))  
+  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+
+- Vol. 3: (The Subliminal Verses) (2004)  
+  Capa oficial do álbum.  
+  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/Vol._3:_The_Subliminal_Verses)  
+  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+
+- All Hope Is Gone (2008)  
+  Capa oficial do álbum.  
+  Fonte: [Wikimedia/Wikipedia](https://en.wikipedia.org/wiki/All_Hope_Is_Gone)  
+  Direitos autorais pertencem à Roadrunner Records. Uso aqui apenas para fins educacionais.
+
+## Músicas em destaque
+
+- Slipknot (1999): *Wait and Bleed* — [YouTube](https://www.youtube.com/watch?v=5abamRO41fE)
+- Iowa (2001): *Left Behind* — [YouTube](https://www.youtube.com/watch?v=6fVE8kSM43I)
+- Vol. 3: (The Subliminal Verses) (2004): *Duality* — [YouTube](https://www.youtube.com/watch?v=6fVE8kSM43I)
+- All Hope Is Gone (2008): *Psychosocial* — [YouTube](https://www.youtube.com/watch?v=5abamRO41fE)
