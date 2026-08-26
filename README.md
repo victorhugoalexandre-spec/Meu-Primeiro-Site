@@ -90,7 +90,7 @@ O uso neste projeto é apenas para fins educacionais e demonstrativos, sem fins 
 
 ## Músicas em destaque
 
-- Slipknot (1999): *Wait and Bleed* — [YouTube](https://www.youtube.com/watch?v=IBy7TCSY2wk&list=RDIBy7TCSY2wk&start_radio=1)
-- Iowa (2001): *People = Shit* — [YouTube](https://www.youtube.com/watch?v=qqK1FrO3BdM&list=RDqqK1FrO3BdM&start_radio=1)
+- Slipknot (1999): *Wait and Bleed* — [YouTube](https://www.youtube.com/watch?v=B1zCN0YhW1s)
+- Iowa (2001): *People = Shit* — [YouTube](https://www.youtube.com/watch?v=qqK1FrO3BdM)
 - Vol. 3: (The Subliminal Verses) (2004): *Duality* — [YouTube](https://www.youtube.com/watch?v=6fVE8kSM43I)
 - All Hope Is Gone (2008): *Psychosocial* — [YouTube](https://www.youtube.com/watch?v=5abamRO41fE)
